@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+}
+
+.header {
+    border: 1px solid red;
+    padding: 15px;
+}
+
+.menu {
+    border: 1px solid red;
+    float: left;
+    padding: 15px;
+    width: 25%;
+}
+
+.main {
+    border: 1px solid red;
+    float: left;
+    padding: 15px;
+    width: 75%;
+}
