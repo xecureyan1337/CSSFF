@@ -1,0 +1,39 @@
+.container {
+    background-color: black;
+    margin-top: 20px;
+    padding: 20px;
+    display: grid;
+    border-radius: 10px;
+    grid-template-columns: 200px 1fr 1fr;
+    grid-template-rows: 70px 1fr 70px;
+    grid-template-areas: 
+        "nav header header"
+        "nav main main"
+        "nav footer footer"
+}
+
+.header {
+    grid-area: header;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+.navigation {
+    grid-area: nav;
+    background-color: blue;
+    color: white;
+    text-align: left;
+}
+
+.main {
+    grid-area: main;
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+.footer {
+    grid-area: footer;
+    background-color: purple;
+    color: white;
+    text-align: center;
+}
