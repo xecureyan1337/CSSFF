@@ -13,8 +13,8 @@ h1 {
 .my-grid {
     /* display: flex; */
     display: grid;
-    gap: 20px;
-    grid-template-columns: 15% 15% 15% 15% 15%;
+    row-gap: 15px;
+    grid-template-columns: 20% 15% 20% 20% 20%;
     grid-template-rows: 40% 50% 20% 20% 20%;
     background-color: orange;
     padding: 10px;
