@@ -6,3 +6,5 @@
 4. <kbd><a href="https://github.com/xecureyan1337/CSSFF/tree/main/4">GRID</a></kbd>
 5. <kbd><a href="https://github.com/xecureyan1337/CSSFF/tree/main/4">GRID</a></kbd>
 6. <kbd><a href="https://github.com/xecureyan1337/CSSFF/tree/main/4">GRID</a></kbd>
+
+Reference: https://css-tricks.com/snippets/css/complete-guide-grid/ 
