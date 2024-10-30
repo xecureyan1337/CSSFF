@@ -41,6 +41,6 @@ body {
 }
 
 .navigation ul li:hover {
-    color: orange;
+    color: orange ;
     border-bottom: 1px solid white;
 }
