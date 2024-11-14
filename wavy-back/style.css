@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.wave-header {
+    min-height: 100vh;
+    position: relative;
+    width: 100%;
+    background: orange;
+}
+
+.svg-bottom {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    width: 20%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px white;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: black;
+    background-color: white;
+    text-align: center;
+    padding: 10px;
+    width: 20%;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    box-shadow: 0px 1px 10px black;
+    cursor: pointer;
+}
